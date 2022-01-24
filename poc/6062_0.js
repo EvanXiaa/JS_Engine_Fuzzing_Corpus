@@ -1,0 +1,3 @@
+
+Array.prototype.push.call([0, 0, 0, 0, 0]);
+

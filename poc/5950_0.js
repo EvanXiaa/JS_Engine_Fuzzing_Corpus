@@ -1,0 +1,5 @@
+
+(function () {                                                                     
+    while (!(arguments !== arguments));                                            
+})();
+
